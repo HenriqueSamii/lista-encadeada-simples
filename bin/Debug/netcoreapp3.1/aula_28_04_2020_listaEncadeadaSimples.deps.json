@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aula_28_04_2020_listaEncadeadaSimples/1.0.0": {
+        "runtime": {
+          "aula_28_04_2020_listaEncadeadaSimples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aula_28_04_2020_listaEncadeadaSimples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
